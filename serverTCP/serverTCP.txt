@@ -1,0 +1,4 @@
+La seguente cartella contiente tutti i file che riguardano la parte del server TCP:
+  MessageManager.java;
+  ServerTCP.java;
+  SocketWorker.java;
