@@ -1,0 +1,1 @@
+La seguente cartella contiene i file sorgenti della GUI
